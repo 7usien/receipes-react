@@ -1,0 +1,103 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Veggie Stew",
+      "src": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&dpr=1",
+      "ingredients": [
+        "1 Carrot",
+        "1 Leek",
+        "200g Tofu",
+        "300ml Veg stock"
+      ],
+      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Place the carrot, leek and tofu in a large bowl. Add the stock and mix well. 2. Add the rest of the ingredients and mix well. 3. Place the mixture in a large bowl and cover with a lid. 4. Place the lid on the oven and cook for 40 minutes. 5. Serve with a slaw of your choice",
+      "cookingTime": "45 minutes"
+    },
+    {
+      "id": "2",
+      "title": "Veggie Pizza",
+      "src": "https://images.pexels.com/photos/842571/pexels-photo-842571.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&dpr=1",
+      "ingredients": [
+        "1 Base",
+        "Tomata pasata",
+        "1 Green pepper",
+        "100g Mushrooms"
+      ],
+      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Add the pasata, green pepper and mushrooms to the base. Place the lid on the oven and cook for 30 minutes. 5. Serve with a slaw of your choice",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "id": "3",
+      "title": "Greek Salad",
+      "src": "https://images.pexels.com/photos/2097090/pexels-photo-2097090.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&dpr=1",
+      "ingredients": [
+        "1 Onion",
+        "1 Block of Feta",
+        "Olives",
+        "Tomatoes",
+        "Olive Oil"
+      ],
+      "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "id": 1651659586505,
+      "title": "شاورما فلافل",
+      "method": "ضع البيض ع اللحم علي النار ثم قلب المحتويات لمده ربع ساعه",
+      "cookingTime": "2 minutes",
+      "ingredients": [
+        "بيض",
+        "لحمه",
+        "مكرونه",
+        "خضار",
+        "مياه"
+      ]
+    },
+    {
+      "id": 1651660053508,
+      "title": "فول بالبسطرمه",
+      "method": "ضع الفول ع النار ثم قلبه جديا ومن ثم ضع البيض عليه",
+      "cookingTime": "2 minutes",
+      "ingredients": [
+        "بيض",
+        "فول",
+        "طعميه",
+        "مياه",
+        "بسطرمه"
+      ]
+    },
+    {
+      "id": 1651660235635,
+      "title": "فشار بالجبنه",
+      "method": "ضع الفشسار ع النار ثم معلقه زيت لمدخ 3 دقائق ثم ضع الفشار في علبه وعليها الجبنه",
+      "cookingTime": "3 minutes",
+      "ingredients": [
+        "فشار",
+        "نكهه جبنه",
+        "ملح"
+      ]
+    },
+    {
+      "id": 1651675114883,
+      "title": "mango juice",
+      "method": "put water with manago",
+      "cookingTime": "2 minutes",
+      "ingredients": [
+        "mango",
+        "sugar",
+        "water"
+      ]
+    },
+    {
+      "id": 1651677654410,
+      "title": "اسم الوصفه",
+      "method": "نضع الأكل ع النار",
+      "cookingTime": "4 minutes",
+      "ingredients": [
+        "ماء",
+        "مانجو",
+        "بسكويت"
+      ]
+    }
+  ]
+}

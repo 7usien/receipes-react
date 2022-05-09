@@ -1,0 +1,51 @@
+.create {
+ color: #555;
+ max-width: 480px;
+ margin: 60px auto;
+}
+.create label span {
+ display: block;
+ margin: 30px 0 10px;
+}
+.create p {
+ margin-top: 10px;
+ font-size: 0.8em;
+}
+.create button {
+ display: block;
+ width: 100px;
+ font-size: 1em;
+ color: #fff;
+ padding: 8px 20px;
+ border: 0;
+ border-radius: 4px;
+ background-color: #58249c;
+ cursor: pointer;
+ text-decoration: none;
+ margin: 20px auto;
+}
+.ingridentList h3 {
+ font-size: 1.3rem;
+ margin-top: 1.3rem;
+}
+.ingridentList ul {
+ padding: 0;
+ display: flex;
+ justify-content: flex-start;
+
+ align-items: center;
+ gap: 15px;
+}
+.ingridentList ul li {
+ display: inline-block;
+ list-style: none;
+ background-color: orangered;
+ padding: 4px;
+ color: #fff;
+ box-shadow: 2px 2px 0 #474747;
+ border-radius: 3px;
+ cursor: pointer;
+}
+.ingridentList ul li:hover {
+ background-color: #474747;
+}

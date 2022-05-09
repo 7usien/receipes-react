@@ -1,0 +1,36 @@
+.receipe-wrap {
+ max-width: 85%;
+ margin: 2rem auto;
+ background-color: #fff;
+ padding: 1rem;
+ box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+ border-radius: 5px;
+ text-align: center;
+}
+.receipe-wrap img {
+ width: 100%;
+}
+
+.receipe-wrap h2 {
+ font-size: 1.6rem;
+ padding-bottom: 0.5rem;
+ margin: 1rem 0;
+ text-transform: capitalize;
+}
+.receipe-wrap p {
+ line-height: 1.7;
+}
+
+.receipe-wrap ul {
+ display: flex;
+ gap: 30px;
+ justify-content: center;
+}
+
+.receipe-wrap ul li {
+ list-style: none;
+ background-color: #ccc;
+ padding: 3px 5px;
+ border-radius: 3px;
+ box-shadow: 4px 4px 0px rgba(0, 0, 0, 0.4);
+}
